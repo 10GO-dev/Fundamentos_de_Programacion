@@ -1,5 +1,5 @@
 # Fundamentos_del_computador
-Fundamentos_del_computador
+Fundamentos_de_programación
 
 
 |||Primer examen parcial.py|||
