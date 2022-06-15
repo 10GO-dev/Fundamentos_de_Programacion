@@ -1,4 +1,4 @@
-# Fundamentos_del_computador
+# Fundamentos_de_Programación
 Fundamentos_de_programación
 
 
